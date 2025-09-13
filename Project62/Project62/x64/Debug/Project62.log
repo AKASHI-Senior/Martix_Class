@@ -1,0 +1,3 @@
+﻿  martix.cpp
+D:\c ++\Project62\Project62\martix.cpp(140,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project62.vcxproj -> D:\c ++\Project62\x64\Debug\Project62.exe
